@@ -1,6 +1,6 @@
 # google_books_flutter
 
-![main](/Users/hileoandersson/Workspace/pratice/flutter-pratice/google_books_flutter/screenshots/main.png)
+![main](./screenshots/main.png)
 
 Clone Google Play Books.
 
